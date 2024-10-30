@@ -1,0 +1,126 @@
+# Copyright (C) 2014 Bitcoin address
+# This file is distributed under the same license as the Bitcoin address package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bitcoin Address 0.7.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bitcoin_address\n"
+"POT-Creation-Date: 2014-12-14 13:59:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bitcoin_address.php:77
+msgid ""
+"Thank you for installing the Bitcoin Address plugin. Please enter your "
+"Electrum Master Public Key in the <a href=\"%s\">plugin settings area</a>."
+msgstr ""
+
+#: bitcoin_address.php:141
+msgid ""
+"Options for the Bitcoin Address plugin. If you need help please see the "
+"guide <a href=\"%s\">here</a>"
+msgstr ""
+
+#: bitcoin_address.php:150 bitcoin_address.php:152 bitcoin_address.php:322
+msgid "Bitcoin Address"
+msgstr ""
+
+#: bitcoin_address.php:156
+msgid "Main"
+msgstr ""
+
+#: bitcoin_address.php:157
+msgid "Main Options"
+msgstr ""
+
+#: bitcoin_address.php:161
+msgid "Electrum MPK"
+msgstr ""
+
+#: bitcoin_address.php:162
+msgid "Electrum Master Public Key"
+msgstr ""
+
+#: bitcoin_address.php:168
+msgid "Next Address Index"
+msgstr ""
+
+#: bitcoin_address.php:170
+msgid "Index of the next address that is displayed."
+msgstr ""
+
+#: bitcoin_address.php:184
+msgid "Please enter your MPK not the default MPK"
+msgstr ""
+
+
+#: bitcoin_address.php:186
+msgid "A version 1 MPK can only contain 128 hexadecimal digits. Please make sure you only enter hexadecimal numbers, i.e. lowercase letters a-f and numbers 0-9, and the total number of hexdigits is equal to 128."
+msgstr ""
+
+#: bitcoin_address.php:189
+msgid "A version 2 MPK must begin with 'xpub' and can only contain base58 digits - 123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz."
+msgstr ""
+
+#: bitcoin_address.php:211
+msgid "Bitcoin Address Log"
+msgstr ""
+
+#: bitcoin_address.php:212
+msgid "Log of addresses that were handed out"
+msgstr ""
+
+#: bitcoin_address.php:215
+msgid "Date"
+msgstr ""
+
+#: bitcoin_address.php:216
+msgid "IP Address"
+msgstr ""
+
+#: bitcoin_address.php:217
+msgid "Address"
+msgstr ""
+
+#: bitcoin_address.php:218
+msgid "Address Index"
+msgstr ""
+
+#: bitcoin_address.php:268
+msgid "Get Address"
+msgstr ""
+
+#: bitcoin_address.php:381
+msgid ""
+"Sorry, you don't have permission for this action. Go back to the last page, "
+"reload it and try again"
+msgstr ""
+
+#: includes/list_table.php:69
+msgid "All"
+msgstr ""
+
+#: includes/list_table.php:80
+msgid "Search"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Bitcoin Address"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Provides a way for your site's visitors to get a fresh bitcoin address each "
+"time they want to send you money."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Abdussamad"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://abdussamad.com"
+msgstr ""

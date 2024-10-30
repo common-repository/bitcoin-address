@@ -1,0 +1,52 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/includes\n"
+"POT-Creation-Date: 2012-12-14 02:56:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: abstract.class.abd_meta_option.inc.php:116
+#: abstract.class.abd_option.inc.php:46 class.abd_sortable_option.inc.php:186
+#: class.abd_sortable_option.inc.php:195
+msgid "Invalid value for option titled \"%s\"."
+msgstr ""
+
+#: class.abd_date_picker_meta_option.inc.php:34
+#: class.abd_date_picker_option.inc.php:34
+msgid "Invalid value for option titled \"%s\". Date must be in Year-Month-Day format with 4 digits for the year and 2 each for the month and day."
+msgstr ""
+
+#: class.abd_numeric_text_option.inc.php:43
+msgid "Invalid value for option titled '%s'. Value must be a whole number between %d and %d inclusive."
+msgstr ""
+
+#: class.abd_numeric_text_option.inc.php:45
+msgid "Invalid value for option titled '%s'. Value must be between %d and %d inclusive."
+msgstr ""
+
+#: class.abd_options_page.inc.php:127
+msgid "Save Changes"
+msgstr ""
+
+#: class.abd_section.inc.php:56
+msgid "Yes"
+msgstr ""
+
+#: class.abd_section.inc.php:56
+msgid "No"
+msgstr ""
+
+#: class.abd_sortable_option.inc.php:204
+msgid "Invalid value for option titled \"%1s\". Enter a whole number between 1 and %2d."
+msgstr ""
+
+#: class.abd_upload_meta_option.inc.php:22 class.abd_upload_option.inc.php:37
+msgid "Upload"
+msgstr ""

@@ -1,0 +1,27 @@
+.bitcoin_address_link,
+.bitcoin_address_field_label,
+.bitcoin_address_field {
+	font-size: 1.5em;
+}
+
+.bitcoin_address_field {
+	width: 17em;
+}
+
+.bitcoin_address_field_label {
+	font-weight: bold;
+}
+
+.frm_bitcoin_address {
+	margin-bottom: 1em;	
+}
+
+img.bitcoin_address_qr_code {
+	display:block;
+	margin:0.25em auto;
+}
+
+.output_bitcoin_address {
+	text-align:center;
+}
+
